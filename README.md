@@ -31,6 +31,7 @@ Seaborn → Visualização estatística
 
 Jupyter Notebook → Ambiente de desenvolvimento
 
+
 📊 Análises Realizadas
 
 🔹 Faturamento por Produto:
@@ -45,6 +46,7 @@ Mapeamento das regiões com maior performance comercial.
 
 Análise da evolução do faturamento ao longo do tempo.
 
+
 📈 Principais Insights Estratégicos
 
 O faturamento é concentrado em poucos produtos (possível estratégia de foco ou diversificação).
@@ -53,6 +55,7 @@ Determinadas regiões apresentam maior potencial de crescimento.
 
 Existe tendência consistente de crescimento no período analisado.
 
+
 💡 O que este projeto demonstra
 
 ✔ Capacidade de manipulação e limpeza de dados
@@ -60,6 +63,7 @@ Existe tendência consistente de crescimento no período analisado.
 ✔ Análise exploratória estruturada
 ✔ Geração de insights estratégicos
 ✔ Organização de projeto para portfólio
+
 
 📂 Estrutura do Projeto
 analise-estrategica-vendas/
@@ -72,12 +76,14 @@ analise-estrategica-vendas/
 │ └── faturamento_mensal.png
 └── README.md
 
+
 🚀 Próximos Passos (Evolução do Projeto)
 
 Cálculo de Ticket Médio
 Análise de Margem
 Segmentação de clientes
 Dashboard interativo (Power BI ou Streamlit)
+
 
 - Obrigada por visitar meu projeto!
 - Fique à vontade para explorar o código e os insights gerados.
