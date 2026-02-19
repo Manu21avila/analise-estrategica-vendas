@@ -1,4 +1,5 @@
 📊 Análise Estratégica de Vendas
+
 📌 Contexto do Projeto
 
 Este projeto simula um cenário real de negócio onde uma empresa busca compreender seus padrões de vendas para apoiar decisões estratégicas.
